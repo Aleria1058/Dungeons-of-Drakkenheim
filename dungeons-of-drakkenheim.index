@@ -9,6 +9,6 @@
 		</update>
 	</info>
 	<files>
-		<file name="dungeons-of-drakkeheim.xml" />
+		<file name="drakkenheimspells.xml" />
 	</files>
 </index>
