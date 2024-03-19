@@ -5,10 +5,10 @@
 		<description> A 5e adventure where malevolent monsters and rival factions clash in a dark city devastated by a mysterious meteor shower!</description>
 		<author url="https://ghostfiregaming.com/dungeons-of-drakkenheim/">Ghostfire Gaming</author>
 		<update version="0.0.1">
-			<file name="dungeons-of-drakkenheim.index" url="https://raw.githubusercontent.com/Aleria1058/Dungeons-of-Drakkenheim/main/dungeons-of-drakkenheim.index"/>
+			<file name="dungeons-of-drakkenheim.index" url="https://raw.githubusercontent.com/Aleria1058/Dungeons-of-Drakkenheim/main/dungeons-of-drakkenheim.index" />
 		</update>
 	</info>
 	<files>
-		<file name="drakkenheimspells.xml" />
+		<file name="drakkenheimspells.xml" url="https://raw.githubusercontent.com/Aleria1058/Dungeons-of-Drakkenheim/main/drakkenheimspells.xml" />
 	</files>
 </index>
