@@ -3,7 +3,7 @@
 	<info>
         <name>Dungeons of Drakkenheim Spells</name>
 		<update version="0.0.1">
-			<file name="drakkenheimspells.xml" />
+			<file name="drakkenheimspells.xml" url="https://raw.githubusercontent.com/Aleria1058/Dungeons-of-Drakkenheim/main/drakkenheimspells.xml"/>
 		</update>
 	</info>
 	<element name="Controlled Mutation" type="Spell" source="Dungeons of Drakkenheim" id="ID_DOD_SPELL_CONTROLLED_MUTATION">
